@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=338
+
+VTags language definitions script.
+Get vtags.vim and this script.
+
+This script does not do anything on it's own.
+Required by: vimscript #337 (vtags)
